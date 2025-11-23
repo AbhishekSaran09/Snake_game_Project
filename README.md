@@ -66,6 +66,6 @@ For a complete documentation set, consider adding images showing:
 * The game start screen (score 0, initial snake position).
 ![Game Screenshot](Screenshot/image.png)      
 * A frame showing the snake eating the food (a key gameplay moment).
-
+![Game Screenshot](Screenshot3/image.png)
 * The final **"GAME OVER"** screen displaying the final score.
 ![Game Screenshot](Screenshot2/image.png)
